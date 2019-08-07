@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "A",
+        href: "http://www.acfun.cn"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "B",
+        href: "http://www.bilibili.com"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Y",
+        href: "http://www.yhdm.tv"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "D",
+        href: "http://www.dilidili.name/"
     }
 ]
